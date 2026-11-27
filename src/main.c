@@ -1,4 +1,4 @@
-##include "sistema.h"
+#include "sistema.h"
 
 int main() {
     executarSistema();
